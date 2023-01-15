@@ -4,3 +4,9 @@ Hi, Call me Yuni! I am an aspiring Data Analyst. I have worked in translating bu
 **Spreadsheet Skilss Set**
   - Data Cleaning
   - Basic Statistic
+
+**SQL Skills Set [BigQuery]**
+- SQL Aggregate Function 
+- SQL Character and String Function
+- SQL Date and Time Function
+- SQL Join Function
